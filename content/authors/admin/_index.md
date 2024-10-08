@@ -45,7 +45,9 @@ profiles:
     url: https://scholar.google.com/citations?user=hajAPZEAAAAJ&hl=en/
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-4704-8728/
-
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0002-4704-8728/
+    
 interests:
   - Epidemiology and biostatistics
   - Healthcare data analysis
@@ -112,7 +114,7 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: R
         description: ''
         percent: 80
         icon: code-bracket
