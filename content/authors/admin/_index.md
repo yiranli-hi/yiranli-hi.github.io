@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Yiran Li
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Iran Li
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yiran
+last_name: Li
 
 # Status emoji
 status:
@@ -20,101 +20,109 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Groningen
+    url: https://www.rug.nl/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'y.li@umcg.nl'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/yiran2020good_luck/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/yiranli-hi
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/yiran-li-262081231/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=hajAPZEAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-4704-8728
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Healthcare research
+  - Data analysis
+  - Psychiatry
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Genetic Epidemiology
+    institution: University of Groningen
+    date_start: 2021-03-01
+    date_end: 2025-03-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _The Influence of Environmental and Genetic Factors on Neurodevelopmental and Comorbid Somatic Conditions_. Supervised by [Prof Catharina A. Hartman](https://www.rug.nl/staff/c.a.hartman/) and [Prof Harold Snieder](https://www.rug.nl/umcg/research/departments/epidemiology/staff/h-snieder-phd?lang=en). 
+      Presented papers at 5 conferences with the contributions being published in 4 journals.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: ''
+  - area: Master Epidemiology and Health Statistics
+    institution: Sun Yat-sen University
+    date_start: 2017-09-01
+    date_end: 2020-06-30
     summary: |
       GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Thesis: Medium- to long-term Effects and Mechanisms of a Mobile Health (mHealth) Intervention on Suicide among People Living with HIV
+
+  - area: Bachelor of Medicine in Preventive Medicine
+    institution: Southern Medical University
+    date_start: 2011-09-01
+    date_end: 2017-06-30
+    summary: |
+      GPA: 3.4/4.0
+      Thesis: The factors influencing psychological resilience in people with HIV
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Research analyst intern
+    company_name: Jiuqian Consulting, China
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2023-05
+    date_end: 2023-06
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Assisted with the review and analysis for client requirements
+
+  - position: Research project manager
+    company_name: Sun Yat-sen University
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020-07-01
+    date_end: 2021-01-31
     summary: |
+
+  - position: Statistics Consultant
+    company_name: Sun Yat-sen University
+    company_url: ''
+    company_logo: ''
+    date_start: 2017-09
+    date_end: 2020-06
+    summary: |2-
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Provided services of statistical design and data analysis for research in healthcare
+
+  - position: Teaching Assistant
+    company_name: Sun Yat-sen University
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-09
+    date_end: 2019-06
+    summary: |2-
+      Responsibilities include:
+      - Taught hands-on statistical course: Medical Statistics and SPSS
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: R
         description: ''
-        percent: 80
         icon: code-bracket
       - name: Data Science
         description: ''
@@ -142,12 +150,12 @@ skills:
         icon: camera
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
+    percent: 100
+  - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Turkish
+    percent: 10
 
 # Awards.
 #   Add/remove as many awards below as you like.
