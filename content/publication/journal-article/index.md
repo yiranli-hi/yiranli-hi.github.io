@@ -22,7 +22,7 @@ publishDate: "2025-08-12T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Under review* "
+publication: "*Under review* in Nature Mental Health"
 publication_short: ""
 abstract: Neurodevelopmental conditions such as attention-deficit/hyperactivity disorder (ADHD) and autism co-occur with cardiometabolic conditions. However, little is known about the mechanisms underlying this co-occurrence. In this nationwide three-generation study using population-based registers in the Netherlands (n=15 million), we assessed the familial (co-)aggregation of ADHD, autism, and cardiometabolic conditions, and estimated their heritabilities and genetic correlations. ADHD, autism, and cardiometabolic conditions showed aggregation and co-aggregation within families and between spouses. Estimated heritabilities of ADHD and autism were moderate (both〖 h〗^2=0.5), while those of cardiometabolic conditions ranged from low to moderate (h^2=0.1-0.4). Genetic correlations between neurodevelopmental and cardiometabolic conditions were modest (r_g=–0.02-0.20). Together, these results suggest a partly shared familial liability for neurodevelopmental and cardiometabolic conditions, and environmental factors likely play a more important role in the co-occurrence of neurodevelopmental and cardiometabolic conditions than genetics. These new insights can advance research toward specific etiological mechanisms and inform preventive strategies.
 
@@ -38,12 +38,12 @@ featured: yes
 #   url: ""
 url_pdf: https://www.researchsquare.com/article/rs-6048644/v1.pdf?c=1755012277000
 url_code: 'https://github.com/yiranli-hi/Familial-coaggregation-project'
-url_dataset: ''
+#url_dataset: ''
 url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+#url_project: ''
+#url_slides: ''
+#url_source: ''
+#url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -66,6 +66,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+This work is driven by the results in my [previous paper](/publication/preprint/) on associations between autism and cardiometabolic conditions.
 
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
