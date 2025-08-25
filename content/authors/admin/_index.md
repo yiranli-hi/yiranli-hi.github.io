@@ -82,8 +82,8 @@ work:
     company_name: Jiuqian Consulting, China
     company_url: ''
     company_logo: ''
-    date_start: 2023-05
-    date_end: 2023-06
+    date_start: 2023-05-01
+    date_end: 2023-06-01
     summary: |2-
       Responsibilities include:
       - Assisted with the review and analysis for client requirements
@@ -100,8 +100,8 @@ work:
     company_name: Sun Yat-sen University
     company_url: ''
     company_logo: ''
-    date_start: 2017-09
-    date_end: 2020-06
+    date_start: 2017-09-01
+    date_end: 2020-06-30
     summary: |2-
       Responsibilities include:
       - Provided services of statistical design and data analysis for research in healthcare
@@ -110,8 +110,8 @@ work:
     company_name: Sun Yat-sen University
     company_url: ''
     company_logo: ''
-    date_start: 2018-09
-    date_end: 2019-06
+    date_start: 2018-09-01
+    date_end: 2019-06-30
     summary: |2-
       Responsibilities include:
       - Taught hands-on statistical course: Medical Statistics and SPSS
