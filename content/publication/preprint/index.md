@@ -2,11 +2,18 @@
 title: "Cardiometabolic conditions in people with autism spectrum disorder: a nationwide prospective cohort study from the Netherlands"
 authors:
 - admin
+- Tian Xie
+- Lin Li
+- Jing Lin
+- Melissa Vos
+- Zheng Chang
+- Harold Snieder
+- Catharina Hartman
 date: "2025-08-19"
 doi: "https://doi.org/10.21203/rs.3.rs-4455836/v1"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-08-25T00:00:00Z"
+publishDate: "2025-08-20T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -24,13 +31,11 @@ abstract: 'Little is known about the association between autism and cardiometabo
 
 tags:
 - Longitudinal associations
-
+- Autism and somatic conditions
 featured: true
 
 links:
-- name: Full text
-  url: https://www.researchsquare.com/article/rs-4455836/v1
-url_pdf: https://www.researchsquare.com/article/rs-4455836/v1.pdf?c=1755684523000
+url_pdf: 'https://www.researchsquare.com/article/rs-4455836/v1.pdf?c=1755684523000'
 url_code: 'https://github.com/yiranli-hi/ASD_cardiometabolic'
 #url_dataset: '#'
 #url_poster: '#'
@@ -41,10 +46,10 @@ url_code: 'https://github.com/yiranli-hi/ASD_cardiometabolic'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ""
-  preview_only: false
+#image:
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  #focal_point: ""
+  #preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -61,4 +66,4 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-Drived by this work, a follow-up familial study was conducted [previous paper](/publication/conference-paper/) on familial co-aggregation between autism, ADHD, and cardiometabolic conditions.
+Drived by this work, a follow-up familial study was conducted [previous paper](/publication/journal-article/) on familial co-aggregation between autism, ADHD, and cardiometabolic conditions.
