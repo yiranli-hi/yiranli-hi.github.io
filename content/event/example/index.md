@@ -1,28 +1,21 @@
 ---
-title: Example Talk
+title: Oral Talk
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: Section of Epidemiology & Social Psychiatry Conference
+event_url: https://www.psychepi.org/
 
-location: Hugo Blox Builder HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+location: Lausanne, Switzerland
+summary: Oral presentation of my research project.
+abstract: 'Neurodevelopmental conditions such as attention-deficit/hyperactivity disorder (ADHD) and autism co-occur with cardiometabolic conditions. However, little is known about the mechanisms underlying this co-occurrence. In this nationwide three-generation study using population-based registers in the Netherlands (n=15 million), we assessed the familial (co-)aggregation of ADHD, autism, and cardiometabolic conditions, and estimated their heritabilities and genetic correlations. ADHD, autism, and cardiometabolic conditions showed aggregation and co-aggregation within families and between spouses. Estimated heritabilities of ADHD and autism were moderate (both h^2=0.5), while those of cardiometabolic conditions ranged from low to moderate (h^2=0.1-0.4). Genetic correlations between neurodevelopmental and cardiometabolic conditions were modest (r_g=–0.02-0.20). Together, these results suggest a partly shared familial liability for neurodevelopmental and cardiometabolic conditions, and environmental factors likely play a more important role in the co-occurrence of neurodevelopmental and cardiometabolic conditions than genetics. These new insights can advance research toward specific etiological mechanisms and inform preventive strategies.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2024-09-12T13:00:00Z'
+#date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-09-12T00:00:00Z'
 
 authors:
   - admin
@@ -51,7 +44,7 @@ url_video: 'https://youtube.com'
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+#slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
