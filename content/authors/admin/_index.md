@@ -26,19 +26,19 @@ profiles:
   - icon: at-symbol
     url: 'mailto:lyiran126@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/yiran2020good_luck/
-  - icon: brands/github
-    url: https://github.com/yiranli-hi
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/yiran-li-262081231/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=hajAPZEAAAAJ&hl=en
+  - icon: brands/github
+    url: https://github.com/yiranli-hi
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-4704-8728
-
+  - icon: brands/x
+    url: https://x.com/liviali37456469
+  - icon: brands/instagram
+    url: https://www.instagram.com/yiran2020good_luck/
+    
 interests:
   - Healthcare research
   - Data analysis
@@ -144,9 +144,7 @@ languages:
       #- Synthesize your own blockchain solutions
       #- Gain an in-depth understanding of the specific mechanics of Bitcoin
       #- Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-
 ---
 
 ## About Me
-
 Yiran Li is a researcher in epidemiology and psychiatry, specializing in leveraging large-scale data to uncover insights into health outcomes.
