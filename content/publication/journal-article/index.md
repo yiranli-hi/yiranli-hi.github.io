@@ -1,11 +1,9 @@
 ---
-title: "An example journal article"
+title: "Familial co-aggregation and shared heritability between clinically diagnosed neurodevelopmental problems and cardiometabolic conditions: a nationwide register study across three generations."
 authors:
 - admin
 - Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
