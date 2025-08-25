@@ -2,13 +2,19 @@
 title: "Familial co-aggregation and shared heritability between clinically diagnosed neurodevelopmental problems and cardiometabolic conditions: a nationwide register study across three generations."
 authors:
 - admin
-- Robert Ford
+- Yiling Zhou
+- Melissa Vos
+- Martje Bos
+- Olivier Steen
+- Naomi Wray
+- Catharina Hartman
+- Harold Snieder
 
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2025-08-12T00:00:00Z"
+doi: "https://doi.org/10.21203/rs.3.rs-6048644/v1"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-08-12T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -16,23 +22,22 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Under review* "
 publication_short: ""
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Neurodevelopmental conditions such as attention-deficit/hyperactivity disorder (ADHD) and autism co-occur with cardiometabolic conditions. However, little is known about the mechanisms underlying this co-occurrence. In this nationwide three-generation study using population-based registers in the Netherlands (n=15 million), we assessed the familial (co-)aggregation of ADHD, autism, and cardiometabolic conditions, and estimated their heritabilities and genetic correlations. ADHD, autism, and cardiometabolic conditions showed aggregation and co-aggregation within families and between spouses. Estimated heritabilities of ADHD and autism were moderate (both〖 h〗^2=0.5), while those of cardiometabolic conditions ranged from low to moderate (h^2=0.1-0.4). Genetic correlations between neurodevelopmental and cardiometabolic conditions were modest (r_g=–0.02-0.20). Together, these results suggest a partly shared familial liability for neurodevelopmental and cardiometabolic conditions, and environmental factors likely play a more important role in the co-occurrence of neurodevelopmental and cardiometabolic conditions than genetics. These new insights can advance research toward specific etiological mechanisms and inform preventive strategies.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
-featured: false
+- Genetic
+featured: yes
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://www.researchsquare.com/article/rs-6048644/v1.pdf?c=1755012277000
+url_code: 'https://github.com/yiranli-hi/Familial-coaggregation-project'
 url_dataset: ''
 url_poster: ''
 url_project: ''
