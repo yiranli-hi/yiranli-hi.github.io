@@ -66,7 +66,7 @@ education:
     summary: |3-
       GPA: 3.4/4.0
       Thesis on _Medium- to long-term Effects and Mechanisms of a Mobile Health (mHealth) Intervention on Suicide among People Living with HIV_.
-      Supervised by [Dr Yan Guo](https://www.ut.edu/directory/guo-yan)
+      Supervised by [Dr Yan Guo](https://www.ut.edu/directory/guo-yan/)
   - area: Bachelor of Medicine in Preventive Medicine
     institution: Southern Medical University
     date_start: 2011-09-01

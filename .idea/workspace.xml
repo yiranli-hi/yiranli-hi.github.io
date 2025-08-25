@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ea0950f-c213-4f07-b3cc-e384c1e09542" name="Changes" comment="0825 add fixed date">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9ea0950f-c213-4f07-b3cc-e384c1e09542" name="Changes" comment="0825 add main page info">
       <change beforePath="$PROJECT_DIR$/content/authors/admin/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/admin/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/admin/avatar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/admin/avatar.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756111569090</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="0825 add main page info">
+      <option name="closed" value="true" />
+      <created>1756115692839</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1756115692839</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -121,6 +127,7 @@
     <MESSAGE value="R" />
     <MESSAGE value="0825 add" />
     <MESSAGE value="0825 add fixed date" />
-    <option name="LAST_COMMIT_MESSAGE" value="0825 add fixed date" />
+    <MESSAGE value="0825 add main page info" />
+    <option name="LAST_COMMIT_MESSAGE" value="0825 add main page info" />
   </component>
 </project>
