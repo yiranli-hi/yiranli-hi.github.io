@@ -63,8 +63,7 @@ education:
     institution: Sun Yat-sen University
     date_start: 2017-09-01
     date_end: 2020-06-30
-    summary: |3-
-      GPA: 3.4/4.0
+    summary: |
       Thesis on _Medium- to long-term Effects and Mechanisms of a Mobile Health (mHealth) Intervention on Suicide among People Living with HIV_.
       Supervised by [Dr Yan Guo](https://www.ut.edu/directory/guo-yan/)
   - area: Bachelor of Medicine in Preventive Medicine
