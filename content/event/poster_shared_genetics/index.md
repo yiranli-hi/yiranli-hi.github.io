@@ -46,8 +46,9 @@ featured: true
 #   Otherwise, set `projects = []`.
 #projects:
   #- example
+#![Poster presentation](/photos/BGA2024.jpg)
+
 ---
 I also presented this work in the poster session at Behavior Genetics Association Conference 2024
-![Poster presentation](/photos/BGA2024.jpg)
 This work has been published in _Translational Psychiatry_ [previous paper](/publication/conference-paper/).
 
