@@ -1,5 +1,5 @@
 ---
-title: Oral talk
+title: Oral talk on shared genetics between autism and somatic conditions
 event: Annual Epidemiological congress (WEON) 2023
 location: Rotterdam, Netherlands
 summary: One oral of my research project on autism and cardiometabolic conditions.
@@ -46,9 +46,10 @@ featured: true
 #   Otherwise, set `projects = []`.
 #projects:
   #- example
-#![Poster presentation](/photos/BGA2024.jpg)
 
 ---
-I also presented this work in the poster session at Behavior Genetics Association Conference 2024
+I also presented this work in the poster session at Behavior Genetics Association Conference 2024.
+![Poster presentation](/photos/BGA2024.jpg)
+
 This work has been published in _Translational Psychiatry_ [previous paper](/publication/conference-paper/).
 

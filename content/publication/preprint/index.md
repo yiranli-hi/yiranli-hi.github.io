@@ -1,5 +1,5 @@
 ---
-title: "Cardiometabolic conditions in people with autism spectrum disorder: a nationwide prospective cohort study from the Netherlands"
+title: "Cardiometabolic conditions in people with autism: a nationwide prospective cohort study from the Netherlands"
 authors:
 - admin
 - Tian Xie
