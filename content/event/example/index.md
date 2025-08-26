@@ -23,7 +23,7 @@ authors:
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -34,10 +34,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
-url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+#url_code: 'https://github.com'
+#url_pdf: ''
+url_slides: '/slides/ASD_cardio.pptx'
+#url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

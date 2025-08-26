@@ -1,0 +1,67 @@
+---
+title: Poster Presentation
+
+event: Behavior Genetics Association Conference
+event_url: https://www.bga2024.org/
+
+location: London, UK
+summary: Poster presentation of my research project.
+abstract: "Autism spectrum disorder (ASD) often co-occurs with functional somatic syndromes (FSS), such as irritable bowel syndrome (IBS), multisite pain, and fatigue. However, the underlying genetic mechanisms and causality have not been well studied. Using large-scale genome-wide association study (GWAS) data, we investigated the shared genetic architecture and causality between ASD and FSS. Specifically, we first estimated genetic correlations and then conducted a multi-trait analysis of GWAS (MTAG) to detect potential novel genetic variants for single traits. Afterwards, polygenic risk scores (PRS) of ASD were derived from GWAS and MTAG to examine the associations with phenotypes in the large Dutch Lifelines cohort. Finally, we performed Mendelian randomization (MR) to evaluate the causality. We observed positive genetic correlations between ASD and FSS (IBS: rg = 0.27, adjusted p = 2.04 × 10−7; multisite pain: rg = 0.13, adjusted p = 1.10 × 10−3; fatigue: rg = 0.33, adjusted p = 5.21 × 10−9). Leveraging these genetic correlations, we identified 3 novel genome-wide significant independent loci for ASD by conducting MTAG, mapped to NEDD4L, MFHAS1, and RP11-10A14.4. PRS of ASD derived from both GWAS and MTAG were associated with ASD and FSS in Lifelines, and MTAG-derived PRS showed a bigger effect size, larger explained variance, and smaller p-values. We did not observe significant causality using MR. Our study found genetic associations between ASD and FSS, specifically with IBS, multisite pain, and fatigue. These findings suggest that a shared genetic architecture may partly explain the co-occurrence between ASD and FSS. Further research is needed to investigate the causality between ASD and FSS due to current limited statistical power of the GWASs."
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: '2024-06-28T17:00:00Z'
+#date_end: '2030-06-01T15:00:00Z'
+all_day: false
+
+# Schedule page publish date (NOT talk date).
+publishDate: '2024-07-10T00:00:00Z'
+
+authors:
+  - admin
+
+tags: []
+
+# Is this a featured talk? (true/false)
+featured: true
+
+#image:
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  #focal_point: Right
+
+#links:
+#  - icon: twitter
+#    icon_pack: fab
+#    name: Follow
+#    url: https://twitter.com/georgecushen
+#url_code: 'https://github.com'
+#url_pdf: ''
+#url_slides: 'https://slideshare.net'
+#url_video: 'https://youtube.com'
+
+# Markdown Slides (optional).
+#   Associate this talk with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+#slides: ""
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects:
+  - example
+---
+
+#{{% callout note %}}
+#Click on the **Slides** button above to view the built-in slides feature.
+#{{% /callout %}}
+
+#Slides can be added in a few ways:
+
+#- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+#- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+#- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+
+#Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.

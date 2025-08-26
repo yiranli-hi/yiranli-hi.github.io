@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ea0950f-c213-4f07-b3cc-e384c1e09542" name="Changes" comment="0825 add publications">
-      <change afterPath="$PROJECT_DIR$/content/publication/conference-paper/featured.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/event/poster_shared_genetics/featured.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/event/poster_shared_genetics/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/_default/params.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/params.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/authors/admin/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/admin/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publication/conference-paper/cite.bib" beforeDir="false" afterPath="$PROJECT_DIR$/content/publication/conference-paper/cite.bib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publication/conference-paper/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/publication/conference-paper/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/event/example/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/event/example/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/publication/journal-article/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/publication/journal-article/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/publication/preprint/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/publication/preprint/index.md" afterDir="false" />
     </list>
@@ -43,20 +41,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/liyiran/webpage/yiranli-hi.github.io&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/liyiran/webpage/yiranli-hi.github.io/content/event"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/event" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/event/poster_shared_genetics" />
       <recent name="$PROJECT_DIR$/content/publication/conference-paper" />
       <recent name="$PROJECT_DIR$/content/publication/journal-article" />
       <recent name="$PROJECT_DIR$/content/publication/preprint" />
       <recent name="$PROJECT_DIR$/content/event/example" />
-      <recent name="$PROJECT_DIR$/content/authors/admin" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -195,7 +196,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756131493476</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="0825 add publications">
+      <option name="closed" value="true" />
+      <created>1756135695983</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1756135695983</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -8,7 +8,7 @@ authors:
 - Melissa Vos
 - Zheng Chang
 - Harold Snieder
-- Catharina Hartman
+- Catharina A. Hartman
 date: "2025-08-19"
 
 #doi: "https://doi.org/10.21203/rs.3.rs-4455836/v1"

@@ -7,7 +7,7 @@ authors:
 - Martje Bos
 - Olivier Steen
 - Naomi Wray
-- Catharina Hartman
+- Catharina A. Hartman
 - Harold Snieder
 
 date: "2025-08-12T00:00:00Z"

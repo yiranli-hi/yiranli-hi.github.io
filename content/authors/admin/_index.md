@@ -125,9 +125,9 @@ languages:
   - name: Chinese
     percent: 100
   - name: English
-    percent: 75
+    percent: 100
   - name: Turkish
-    percent: 10
+    percent: 15
 
 # Awards.
 #   Add/remove as many awards below as you like.
