@@ -1,18 +1,18 @@
 ---
-title: Poster Presentation
+title: Oral and Poster Presentation
+![Oral talk](/photos/WEON2023.jpg)
+![Poster presentation](photos/BGA2024.jpg)
+event: Annual Epidemiological congress (WEON) 2023 & Behavior Genetics Association Conference
+event_url: https://weon.nl/ https://www.bga2024.org/
 
-event: Behavior Genetics Association Conference
-event_url: https://www.bga2024.org/
-
-location: London, UK
-summary: Poster presentation of my research project.
+location: Rotterdam, Netherlands & London, UK
+summary: Oral and poster presentation of my research project of autism and cardiometabolic conditions.
 abstract: "Autism spectrum disorder (ASD) often co-occurs with functional somatic syndromes (FSS), such as irritable bowel syndrome (IBS), multisite pain, and fatigue. However, the underlying genetic mechanisms and causality have not been well studied. Using large-scale genome-wide association study (GWAS) data, we investigated the shared genetic architecture and causality between ASD and FSS. Specifically, we first estimated genetic correlations and then conducted a multi-trait analysis of GWAS (MTAG) to detect potential novel genetic variants for single traits. Afterwards, polygenic risk scores (PRS) of ASD were derived from GWAS and MTAG to examine the associations with phenotypes in the large Dutch Lifelines cohort. Finally, we performed Mendelian randomization (MR) to evaluate the causality. We observed positive genetic correlations between ASD and FSS (IBS: rg = 0.27, adjusted p = 2.04 × 10−7; multisite pain: rg = 0.13, adjusted p = 1.10 × 10−3; fatigue: rg = 0.33, adjusted p = 5.21 × 10−9). Leveraging these genetic correlations, we identified 3 novel genome-wide significant independent loci for ASD by conducting MTAG, mapped to NEDD4L, MFHAS1, and RP11-10A14.4. PRS of ASD derived from both GWAS and MTAG were associated with ASD and FSS in Lifelines, and MTAG-derived PRS showed a bigger effect size, larger explained variance, and smaller p-values. We did not observe significant causality using MR. Our study found genetic associations between ASD and FSS, specifically with IBS, multisite pain, and fatigue. These findings suggest that a shared genetic architecture may partly explain the co-occurrence between ASD and FSS. Further research is needed to investigate the causality between ASD and FSS due to current limited statistical power of the GWASs."
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-06-28T17:00:00Z'
+date: '2023-06-23';'2024-06-28T17:00:00Z'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: false
-publication: "publication/conference-paper"
 # Schedule page publish date (NOT talk date).
 publishDate: '2024-07-10T00:00:00Z'
 
@@ -53,5 +53,5 @@ featured: true
 projects:
   - example
 ---
-This work has been published in _Translational Psychiatry_ [previous paper](/publication/conference-paper/) on associations between autism and cardiometabolic conditions.
+This work has been published in _Translational Psychiatry_ [previous paper](/publication/conference-paper/).
 

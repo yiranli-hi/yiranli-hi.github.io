@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ea0950f-c213-4f07-b3cc-e384c1e09542" name="Changes" comment="Add events: poster BGA">
+    <list default="true" id="9ea0950f-c213-4f07-b3cc-e384c1e09542" name="Changes" comment="Add events: poster BGA_add link to paper">
+      <change afterPath="$PROJECT_DIR$/static/photos/BGA2024.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/photos/WEON2023.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/event/poster_shared_genetics/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/event/poster_shared_genetics/index.md" afterDir="false" />
     </list>
@@ -49,11 +51,11 @@
       <recent name="$PROJECT_DIR$/content/event" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/photos" />
       <recent name="$PROJECT_DIR$/static/slides" />
       <recent name="$PROJECT_DIR$/content/event/poster_shared_genetics" />
       <recent name="$PROJECT_DIR$/content/publication/conference-paper" />
       <recent name="$PROJECT_DIR$/content/publication/journal-article" />
-      <recent name="$PROJECT_DIR$/content/publication/preprint" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -208,7 +210,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756196350584</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Add events: poster BGA_add link to paper">
+      <option name="closed" value="true" />
+      <created>1756197458968</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1756197458968</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -219,6 +229,7 @@
     <MESSAGE value="0825 add main page info" />
     <MESSAGE value="0825 add publications" />
     <MESSAGE value="Add events: poster BGA" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add events: poster BGA" />
+    <MESSAGE value="Add events: poster BGA_add link to paper" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add events: poster BGA_add link to paper" />
   </component>
 </project>
