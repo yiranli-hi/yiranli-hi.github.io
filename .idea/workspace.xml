@@ -5,9 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ea0950f-c213-4f07-b3cc-e384c1e09542" name="Changes" comment="Add events: poster BGA_add multiple pics in one post">
+      <change afterPath="$PROJECT_DIR$/content/event/oral_TRAILS/featured.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/event/oral_TRAILS/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/event/example/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/event/example/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/event/poster_shared_genetics/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/event/poster_shared_genetics/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publication/preprint/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/publication/preprint/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/project/pandas/featured.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/project/pandas/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/project/pytorch/featured.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/project/pytorch/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/project/scikit/featured.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/project/scikit/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/teaching/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/teaching/js/ambient-piano.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/teaching/js/featured.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/teaching/js/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/teaching/python/ambient-piano.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/teaching/python/featured.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/teaching/python/index.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,14 +56,14 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/liyiran/webpage/yiranli-hi.github.io/content/event/poster_shared_genetics"
+    "last_opened_file_path": "/Users/liyiran/webpage/yiranli-hi.github.io/content/event"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/event" />
       <recent name="$PROJECT_DIR$/content/event/poster_shared_genetics" />
       <recent name="$PROJECT_DIR$/static/slides" />
-      <recent name="$PROJECT_DIR$/content/event" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/static/photos" />
@@ -274,7 +289,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756201891917</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Add events: poster BGA_add multiple pics in one post">
+      <option name="closed" value="true" />
+      <created>1756202459371</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1756202459371</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
