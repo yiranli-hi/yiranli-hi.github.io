@@ -11,7 +11,7 @@ authors:
 - Harold Snieder
 
 date: "2025-08-12T00:00:00Z"
-doi: "https://doi.org/10.21203/rs.3.rs-6048644/v1"
+doi: "https://doi.org/10.1038/s44220-025-00535-y"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-08-25T00:00:00Z"
@@ -22,8 +22,8 @@ publishDate: "2025-08-25T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Under review* in Nature Mental Health"
-publication_short: ""
+publication: In *Nature Mental Health*
+publication_short: "*Nature Mental Health*"
 abstract: Neurodevelopmental conditions such as attention-deficit/hyperactivity disorder (ADHD) and autism co-occur with cardiometabolic conditions. However, little is known about the mechanisms underlying this co-occurrence. In this nationwide three-generation study using population-based registers in the Netherlands (n=15 million), we assessed the familial (co-)aggregation of ADHD, autism, and cardiometabolic conditions, and estimated their heritabilities and genetic correlations. ADHD, autism, and cardiometabolic conditions showed aggregation and co-aggregation within families and between spouses. Estimated heritabilities of ADHD and autism were moderate (both h^2 =0.5), while those of cardiometabolic conditions ranged from low to moderate (h^2 = 0.1-0.4). Genetic correlations between neurodevelopmental and cardiometabolic conditions were modest (r_g=–0.02-0.20). Together, these results suggest a partly shared familial liability for neurodevelopmental and cardiometabolic conditions, and environmental factors likely play a more important role in the co-occurrence of neurodevelopmental and cardiometabolic conditions than genetics. These new insights can advance research toward specific etiological mechanisms and inform preventive strategies.
 
 # Summary. An optional shortened abstract.
@@ -34,10 +34,10 @@ tags:
 - Autism and somatic conditions
 featured: yes
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: 'https://www.researchsquare.com/article/rs-6048644/v1.pdf?c=1755012277000'
+links:
+  - name: Published article
+    url: https://www.nature.com/articles/s44220-025-00535-y
+url_pdf: 'https://www.nature.com/articles/s44220-025-00535-y.epdf?sharing_token=HJfXd6CaDbLSXjA_HGCIC9RgN0jAjWel9jnR3ZoTv0Noz2_C5dxU4O2BLP6i8-mZ3go8xKntJvHkSnCzfey3yPoKQmxKu8EcTbAH3VhA47G3QRiJ6PUq_YwxmaTeAapHWBolD7UhXQb5bIQEQKqy4zwUryuAwon5sVqhrabvMRQ%3D'
 url_code: 'https://github.com/yiranli-hi/Familial-coaggregation-project'
 #url_dataset: ''
 #url_poster: ''

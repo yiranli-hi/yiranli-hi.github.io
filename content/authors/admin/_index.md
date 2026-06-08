@@ -13,7 +13,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD candidate
+role: PhD
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -27,7 +27,7 @@ profiles:
     url: 'mailto:lyiran126@gmail.com'
     label: E-mail Me
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/yiran-li-262081231/
+    url: https://www.linkedin.com/in/yiran-li-phd-262081231/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=hajAPZEAAAAJ&hl=en
   - icon: brands/github

@@ -11,7 +11,7 @@ authors:
 - Catharina A. Hartman
 date: "2025-08-19"
 
-#doi: "https://doi.org/10.21203/rs.3.rs-4455836/v1"
+doi: "https://doi.org/10.1038/s44220-025-00546-9"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-08-20T00:00:00Z"
@@ -19,11 +19,11 @@ publishDate: "2025-08-20T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Under review* in Nature Mental Health"
-publication_short: ""
+publication: In *Nature Mental Health*
+publication_short: "*Nature Mental Health*"
 
 abstract: 'Little is known about the association between autism and cardiometabolic conditions across the lifespan. We conducted the largest cohort study, using Dutch register data of 8,690,286 individuals aged 12-65 years. These individuals were followed up from January 1, 2014 to their first incidence of cardiometabolic conditions, emigration, death, or December 31, 2020. Cox proportional-hazards models indicated autism was associated with higher risks of cardiometabolic conditions (hazard ratio (HR): 1.20, 95% confidence interval (CI): 1.18-1.23, specifically hypertension (HR: 1.16; CI: 1.14-1.19), dyslipidemia (HR: 1.17; CI: 1.12-1.23), diabetes (HR: 1.22; CI: 1.14-1.30), stroke (HR: 1.23; CI: 1.14-1.34), and heart failure (HR: 1.28; CI: 1.07-1.53). Sex-stratified findings were similar. Associations were observed in adolescent, young (18-30 years), and middle-aged (31-40 years), but not older individuals, indicating earlier onset in autistic compared to non-autistic individuals. Our results underscore the need of monitoring and treatment of cardiometabolic conditions among individuals with autism.' 
 
@@ -36,7 +36,11 @@ tags:
 featured: true
 
 links:
-url_pdf: 'https://www.researchsquare.com/article/rs-4455836/v1.pdf?c=1755684523000'
+  - name: Published article
+    url: https://www.nature.com/articles/s44220-025-00546-9
+  - name: Featured in Nature Research Briefing
+    url: https://www.nature.com/articles/s44220-025-00552-x
+url_pdf: 'https://www.nature.com/articles/s44220-025-00546-9.epdf?sharing_token=ClxoM3O2-ATHB06L_zP8hNRgN0jAjWel9jnR3ZoTv0P5ura6sxzr9HyZag0nLLLF_VEkW5rzKeYxtrAsSCAOl-pNNXShoPyZliGHQC3CYhihPp04rTQc7dKu_G7OPk_Zv2k9ikjZdnNOZhcf7Xf9ZP3y5NKTzLErE-iLNSmpTew%3D'
 url_code: 'https://github.com/yiranli-hi/ASD_cardiometabolic'
 #url_dataset: '#'
 #url_poster: '#'
@@ -67,4 +71,6 @@ url_code: 'https://github.com/yiranli-hi/ASD_cardiometabolic'
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-Drived by this work, a follow-up familial study was conducted [previous paper](/publication/journal-article/) on familial co-aggregation between autism, ADHD, and cardiometabolic conditions.
+This work is **featured in a [Nature Mental Health Research Briefing](https://www.nature.com/articles/s44220-025-00552-x)**.
+
+Driven by this work, a follow-up familial study was conducted [previous paper](/publication/journal-article/) on familial co-aggregation between autism, ADHD, and cardiometabolic conditions.
