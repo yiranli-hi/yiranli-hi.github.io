@@ -1,0 +1,16 @@
+<style>
+  /* Prepend a DOI logo to every DOI attachment button so it is
+     visually distinct from the Code / PDF buttons next to it. */
+  a.hb-attachment-link[href*="doi.org"]::before {
+    content: "";
+    display: inline-block;
+    width: 1.15em;
+    height: 1.15em;
+    margin-right: 0.45em;
+    vertical-align: -0.2em;
+    background-image: url('/icons/doi.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: left center;
+  }
+</style>
