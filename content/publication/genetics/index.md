@@ -31,8 +31,13 @@ abstract: "Autism spectrum disorder (ASD) often co-occurs with functional somati
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Genetic
+  - Molecular Genetics
   - Autism and somatic conditions
+  - Genome-Wide Association Study (GWAS)
+  - Multi-Trait Analysis of GWAS (MTAG)
+  - Polygenic risk scores (PRS)
+  - Mendelian Randomization (MR)
+  - Casual Inference
 
 # Display this page in the Featured widget?
 featured: true
@@ -85,3 +90,4 @@ Create your slides in Markdown - click the _Slides_ button to check out the exam
 {{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+This work is driven by the results in my [previous paper](/publication/autism-somatic-adults/) on associations between autism and comorbid irritable bowel syndromes, multisite pain, and fatigue.

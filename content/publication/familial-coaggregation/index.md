@@ -30,13 +30,17 @@ abstract: Neurodevelopmental conditions such as attention-deficit/hyperactivity 
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Genetic
+- Real-world evidence (RWE)
+- Family study
 - Autism and somatic conditions
+- Registry cohort
+- Claims data
+- Genetics
 featured: yes
 
 links:
-  - name: Published article
-    url: https://www.nature.com/articles/s44220-025-00535-y
+  - name: Preprint version
+    url: https://www.researchsquare.com/article/rs-6048644/v1
 url_pdf: 'https://www.nature.com/articles/s44220-025-00535-y.epdf?sharing_token=HJfXd6CaDbLSXjA_HGCIC9RgN0jAjWel9jnR3ZoTv0Noz2_C5dxU4O2BLP6i8-mZ3go8xKntJvHkSnCzfey3yPoKQmxKu8EcTbAH3VhA47G3QRiJ6PUq_YwxmaTeAapHWBolD7UhXQb5bIQEQKqy4zwUryuAwon5sVqhrabvMRQ%3D'
 url_code: 'https://github.com/yiranli-hi/Familial-coaggregation-project'
 #url_dataset: ''
@@ -67,4 +71,4 @@ url_code: 'https://github.com/yiranli-hi/Familial-coaggregation-project'
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-This work is driven by the results in my [previous paper](/publication/preprint/) on associations between autism and cardiometabolic conditions.
+This work is driven by the results in my [previous paper](/publication/autism-cmd/) on associations between autism and cardiometabolic conditions.

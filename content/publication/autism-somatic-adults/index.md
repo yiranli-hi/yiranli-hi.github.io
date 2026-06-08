@@ -21,7 +21,8 @@ abstract: 'Autistic children frequently often have accompanying physical health 
 
 tags:
   - Autism and somatic conditions
-  - Longitudinal associations
+  - Regression models
+  - Interaction effects
 
 featured: false
 
