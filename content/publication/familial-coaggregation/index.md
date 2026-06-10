@@ -11,7 +11,6 @@ authors:
 - Harold Snieder
 
 date: "2025-08-12T00:00:00Z"
-doi: "https://doi.org/10.1038/s44220-025-00535-y"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-08-25T00:00:00Z"
@@ -39,9 +38,14 @@ tags:
 featured: yes
 
 links:
-  - name: Preprint version
+  - type: doi
+    url: https://doi.org/10.1038/s44220-025-00535-y
+  - type: preprint
     url: https://www.researchsquare.com/article/rs-6048644/v1
-url_pdf: 'https://www.nature.com/articles/s44220-025-00535-y.epdf?sharing_token=HJfXd6CaDbLSXjA_HGCIC9RgN0jAjWel9jnR3ZoTv0Noz2_C5dxU4O2BLP6i8-mZ3go8xKntJvHkSnCzfey3yPoKQmxKu8EcTbAH3VhA47G3QRiJ6PUq_YwxmaTeAapHWBolD7UhXQb5bIQEQKqy4zwUryuAwon5sVqhrabvMRQ%3D'
+    label: Preprint version
+  - type: pdf
+    url: https://www.researchsquare.com/article/rs-6048644/v1.pdf
+    label: PDF (preprint)
 url_code: 'https://github.com/yiranli-hi/Familial-coaggregation-project'
 #url_dataset: ''
 #url_poster: ''

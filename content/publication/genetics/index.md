@@ -12,7 +12,6 @@ authors:
   - Catharina A. Hartman
 
 date: '2024-11-23T00:00:00Z'
-doi: 'https://doi.org/10.1038/s41398-024-03184-4'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-11-23T00:00:00Z'
@@ -42,12 +41,11 @@ tags:
 # Display this page in the Featured widget?
 featured: true
 
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: '/uploads/genetics-translational-psychiatry.pdf'
+links:
+  - type: doi
+    url: https://doi.org/10.1038/s41398-024-03184-4
+  - type: pdf
+    url: /uploads/genetics-translational-psychiatry.pdf
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_poster: ''

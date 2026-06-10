@@ -100,17 +100,12 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-  - block: cta-card
+  - block: markdown
     content:
-      title: 📝 Read my blog
+      title: More about me
       text: |-
-        Notes and reflections on epidemiology, causal inference, real-world evidence,
-        and the broader health-data industry — written from a researcher's perspective.
-      button:
-        text: Visit the Blog
-        url: https://yiranli-hi.github.io/blog/
+        If you made it this far, welcome to visit my [personal blog](https://yiranli-hi.github.io/blog/),
+        where I write about mental health, personal growth, and the small moments that shape how we live and think.
     design:
-      card:
-        css_class: "bg-primary-700"
-        css_style: ""
+      columns: '1'
 ---

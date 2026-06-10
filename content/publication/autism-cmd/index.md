@@ -11,8 +11,6 @@ authors:
 - Catharina A. Hartman
 date: "2025-12-15"
 
-doi: "https://doi.org/10.1038/s44220-025-00546-9"
-
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-12-15T00:00:00Z"
 
@@ -39,11 +37,14 @@ tags:
 featured: true
 
 links:
-  - name: Preprint version
+  - type: doi
+    url: https://doi.org/10.1038/s44220-025-00546-9
+  - type: preprint
+    url: https://www.researchsquare.com/article/rs-4455836/v1
+    label: Preprint version
+  - type: pdf
     url: https://assets-eu.researchsquare.com/files/rs-4455836/v1/fbf0d644-b8e5-4e8e-96ab-75dd5a9d9928.pdf?c=1765872657
-  - name: Featured in Nature Research Briefing
-    url: https://www.nature.com/articles/s44220-025-00552-x
-url_pdf: 'https://www.nature.com/articles/s44220-025-00546-9.epdf?sharing_token=ClxoM3O2-ATHB06L_zP8hNRgN0jAjWel9jnR3ZoTv0P5ura6sxzr9HyZag0nLLLF_VEkW5rzKeYxtrAsSCAOl-pNNXShoPyZliGHQC3CYhihPp04rTQc7dKu_G7OPk_Zv2k9ikjZdnNOZhcf7Xf9ZP3y5NKTzLErE-iLNSmpTew%3D'
+    label: PDF (preprint)
 url_code: 'https://github.com/yiranli-hi/ASD_cardiometabolic'
 #url_dataset: '#'
 #url_poster: '#'
