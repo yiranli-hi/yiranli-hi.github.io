@@ -33,5 +33,5 @@ tags:
 
 featured: false
 
-url_pdf: 'https://www.jmir.org/2021/11/e27897'
+url_pdf: '/uploads/stigma-depression-social-media-hiv.pdf'
 ---

@@ -35,5 +35,5 @@ tags:
 
 featured: false
 
-url_pdf: 'https://mhealth.jmir.org/2022/1/e25586'
+url_pdf: '/uploads/dose-response-engagement-mhealth.pdf'
 ---

@@ -37,5 +37,5 @@ tags:
 
 featured: false
 
-url_pdf: 'https://www.jmir.org/2020/8/e18946'
+url_pdf: '/uploads/cimmh-esophageal-cancer.pdf'
 ---

@@ -24,4 +24,7 @@ We hope it informs future research and supports the development of more tailored
 ## Links
 
 - 🔎 **Research Brief:** [nature.com/articles/s44220-025-00552-x](https://www.nature.com/articles/s44220-025-00552-x)
-- 📄 **Full text of the original paper:** [https://rdcu.be/eYmac](https://rdcu.be/eYmac)
+- 📄 **Full text of the research brief:** [https://rdcu.be/eYmac](https://rdcu.be/eYmac)
+Original article:
+- 🔗 **DOI:** [https://doi.org/10.1038/s44220-025-00546-9](https://doi.org/10.1038/s44220-025-00546-9)
+- 📄 **Read the full text:** [https://rdcu.be/eUIkV](https://rdcu.be/eUIkV)

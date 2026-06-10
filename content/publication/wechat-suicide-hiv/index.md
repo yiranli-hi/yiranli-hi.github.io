@@ -34,5 +34,5 @@ tags:
 
 featured: false
 
-url_pdf: 'https://www.jmir.org/2019/11/e14729'
+url_pdf: '/uploads/wechat-suicide-hiv.pdf'
 ---

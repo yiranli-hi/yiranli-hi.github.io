@@ -26,5 +26,5 @@ tags:
 
 featured: false
 
-url_pdf: 'https://journals.sagepub.com/doi/10.1177/13623613241254619'
+url_pdf: '/uploads/autism-somatic-adults.pdf'
 ---

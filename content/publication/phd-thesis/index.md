@@ -29,5 +29,5 @@ tags:
 - Registry cohort
 featured: false
 
-url_pdf: 'https://research.rug.nl/en/publications/the-influence-of-environmental-and-genetic-factors-on-neurodevelo/'
+url_pdf: '/uploads/phd-thesis.pdf'
 ---

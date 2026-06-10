@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.nature.com/articles/s41398-024-03184-4.pdf'
+url_pdf: '/uploads/genetics-translational-psychiatry.pdf'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_poster: ''

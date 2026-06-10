@@ -19,7 +19,10 @@ My dissertation investigates how environmental, familial, and genetic factors co
 
 I am deeply grateful to my supervisors **Catharina Hartman, Harold Snieder, Tian Xie, Melissa Vos**, collaborators, colleagues, and family for their invaluable support throughout this journey.
 
+![Thesis cover](cover.jpg)
+
 ## Links
 
-- 📖 **Full thesis:** [research.rug.nl](https://research.rug.nl/en/publications/the-influence-of-environmental-and-genetic-factors-on-neurodevelo/)
-- 📰 **Featured on the UMCG Research website:** [umcgresearch.org](https://umcgresearch.org/w/the-influence-of-environmental-and-genetic-factors-on-neurodevelopmental-and-comorbid-somatic-conditions)
+- 📖 **Full thesis (PDF):** [/uploads/phd-thesis.pdf](/uploads/phd-thesis.pdf)
+- 🔗 **University of Groningen record:** [research.rug.nl](https://research.rug.nl/en/publications/the-influence-of-environmental-and-genetic-factors-on-neurodevelo/)
+
