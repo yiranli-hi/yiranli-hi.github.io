@@ -1,21 +1,19 @@
 ---
-title: 'Projects'
-date: 2024-05-19
+title: 'Industry Notes'
+date: 2025-11-05
 type: landing
 
 design:
-  # Section spacing
   spacing: '5rem'
 
-# Page sections
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Industry Notes
+      text: Reflections on epidemiology, causal inference, real-world evidence, and the health-data industry — written from a researcher's perspective.
       filters:
         folders:
-          - project
+          - insight
     design:
       view: article-grid
       fill_image: false
