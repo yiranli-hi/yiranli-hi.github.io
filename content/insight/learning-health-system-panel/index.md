@@ -16,8 +16,6 @@ I attended OSSU Research Day in Toronto in September 2026. Below is my summary o
 
 ## Data-Driven Decision-Making Challenges: Timeliness and Completeness
 
-The five gears are meant to work synergistically, as a continuous learning cycle. But when data arrives late, the loop breaks down. We cannot evaluate the impact of previous policies in time, so the lessons never reach the next round of decisions.
-
 The example comes from Heather Bullock: the Ontario Health Team (OHT) dashboard for primary care attachment.
 
 ## 1. Timeliness
