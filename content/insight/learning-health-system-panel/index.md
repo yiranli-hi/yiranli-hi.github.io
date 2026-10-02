@@ -1,6 +1,6 @@
 ---
 type: post
-title: "Learning Health System Panel Discussion"
+title: "Learning Health System: Data-Driven Decision-Making Challenges"
 summary: Notes from the Learning Health System panel at OSSU Research Day in Toronto — two challenges of data-driven decision-making, timeliness and completeness, illustrated by an Ontario Health Team primary care attachment dashboard.
 date: 2026-10-01
 authors:

@@ -47,4 +47,4 @@ The Evidence Synthesis Infrastructure Collaborative (ESIC) will be the "go to" p
 
 ## My takeaway
 
-These four dimensions are a useful checklist for evaluating and using AI in health system decision-making. Efforts like ESIC are working to close that gap, but current AI tools aren't there yet.
+The four dimensions of data are a useful checklist for evaluating and using AI in health system decision-making. Efforts like ESIC are working to close that gap, but current AI tools aren't there yet.
